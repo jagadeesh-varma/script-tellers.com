@@ -1089,6 +1089,12 @@ section.about .block-content.text-md-right, .block-album {margin-bottom: 1.875em
 
 /*Star media queries*/
 .about-img img{border-radius: 15px;}
+.get_in_tauch_area{display: flex;justify-content: center;}
+.get_in_tauch_area .touch_form .single_input input{  width: 100%;border: 1px solid #C9C9C9;height: 50px;-webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;padding: 20px 16px;margin-bottom: 25px;font-family: "Roboto", sans-serif;font-size: 14px;color: #000;font-weight: 400;}
+.touch_form .single_input textarea{width: 100%;border: 1px solid #C9C9C9;height: 150px;-webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;padding: 20px 16px;margin-bottom: 25px;font-family: "Roboto", sans-serif;font-size: 14px;color: #000;font-weight: 400;}
+.submit_btn{text-align: center;}
+.submit_btn a{margin-top: 0px!important;}
+.submit_btn button{background: none!important;border: none!important;margin: 10px 0px 40px 0px;}
 /*End media queries*/
 
 
