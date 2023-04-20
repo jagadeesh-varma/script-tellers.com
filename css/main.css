@@ -1095,6 +1095,9 @@ section.about .block-content.text-md-right, .block-album {margin-bottom: 1.875em
 .submit_btn{text-align: center;}
 .submit_btn a{margin-top: 0px!important;}
 .submit_btn button{background: none!important;border: none!important;margin: 10px 0px 40px 0px;}
+.watch-trailer-btn{width: 100%;display: block!important;text-align: center;}
+.watch-trailer-btn a{width: 100%;}
+/*.block-social li a{width: 100%!important;display: flex;justify-content: center;}*/
 /*End media queries*/
 
 

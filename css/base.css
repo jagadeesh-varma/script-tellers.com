@@ -286,7 +286,7 @@ h1, .h1{
     content: "";
     width: 100%;
     height: .875rem;
-    background: #ff5252;
+/*    background: #ff5252;*/
     bottom: .775rem;
     left: 0;
 }
