@@ -1097,6 +1097,8 @@ section.about .block-content.text-md-right, .block-album {margin-bottom: 1.875em
 .submit_btn button{background: none!important;border: none!important;margin: 10px 0px 40px 0px;}
 .watch-trailer-btn{width: 100%;display: block!important;text-align: center;}
 .watch-trailer-btn a{width: 100%;}
+.background-img-custom{background-position: unset!important;}
+.overlay-2:before{background: rgba(19, 24, 29, .5)!important}
 /*.block-social li a{width: 100%!important;display: flex;justify-content: center;}*/
 /*End media queries*/
 
