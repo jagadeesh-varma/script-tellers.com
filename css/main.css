@@ -1088,7 +1088,7 @@ section.about .block-content.text-md-right, .block-album {margin-bottom: 1.875em
 /*End media queries*/
 
 /*Star media queries*/
-.about-img img{border-radius: 15px;}
+/*.about-img img{border-radius: 15px;}*/
 .get_in_tauch_area{display: flex;justify-content: center;}
 .get_in_tauch_area .touch_form .single_input input{  width: 100%;border: 1px solid #C9C9C9;height: 50px;-webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;padding: 20px 16px;margin-bottom: 25px;font-family: "Roboto", sans-serif;font-size: 14px;color: #000;font-weight: 400;}
 .touch_form .single_input textarea{width: 100%;border: 1px solid #C9C9C9;height: 150px;-webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;padding: 20px 16px;margin-bottom: 25px;font-family: "Roboto", sans-serif;font-size: 14px;color: #000;font-weight: 400;}
@@ -1098,7 +1098,12 @@ section.about .block-content.text-md-right, .block-album {margin-bottom: 1.875em
 .watch-trailer-btn{width: 100%;display: block!important;text-align: center;}
 .watch-trailer-btn a{width: 100%;}
 .background-img-custom{background-position: unset!important;}
-.overlay-2:before{background: rgba(19, 24, 29, .5)!important}
+.overlay-2:before{background: unset!important;}
+.main-welcome{font-size: 50px!important;padding: 30px 0px;font-family: 'Roboto-Bold'!important;}
+.main-welcome i{font-family: 'Roboto-BoldItalic'!important;}
+.main-welcome span{color: #ff5252;}
+.slides .inner-hero h5{font-size: 30px!important;font-family: 'Roboto'!important;letter-spacing: 5px;font-weight: 600;}
+#about{padding-top: 21rem!important;padding-bottom: 21rem!important;}
 /*.block-social li a{width: 100%!important;display: flex;justify-content: center;}*/
 /*End media queries*/
 
