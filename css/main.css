@@ -1097,7 +1097,7 @@ section.about .block-content.text-md-right, .block-album {margin-bottom: 1.875em
 .submit_btn button{background: none!important;border: none!important;margin: 10px 0px 40px 0px;}
 .watch-trailer-btn{width: 100%;display: block!important;text-align: center;}
 .watch-trailer-btn a{width: 100%;}
-.background-img-custom{background-position: unset!important;}
+/*.background-img-custom{background-position: unset!important;}*/
 .overlay-2:before{background: unset!important;}
 .main-welcome{font-size: 50px!important;padding: 30px 0px;font-family: 'Roboto-Bold'!important;}
 .main-welcome i{font-family: 'Roboto-BoldItalic'!important;}
