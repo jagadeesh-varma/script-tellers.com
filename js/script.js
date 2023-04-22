@@ -118,6 +118,10 @@
 
     $('.background-img').each(function() {
         var path = $(this).children('img').attr('src');
+        var img_id = $(this).children('img').attr('id');
+        if( img_id == "about-us-img")
+        $(this).css('background-image', 'url("' + path + '")').css('background-position', 'initial').css('opacity','0.6');
+            else 
         $(this).css('background-image', 'url("' + path + '")').css('background-position', 'initial');
     });
 
